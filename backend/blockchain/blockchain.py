@@ -18,6 +18,7 @@ class Blockchain:
   
   def replace_chain(self, chain):
     # Replace the local chain with the incoming one if the following applies:
+    
 
   @staticmethod
   def is_valid_chain(chain):
